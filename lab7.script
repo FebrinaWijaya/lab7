@@ -1,0 +1,19 @@
+Script started on 2017年06月07日 (週三) 17時43分09秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab7 $[00m ./tetris[4Pmake
+g++ -c tetris.cpp
+g++ -o tetris tetris.o genMino.o Mino.o MinoI.o MinoS.o MinoJ.o MinoL.o MinoO.o
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab7 $[00m make./tetris
+0000
+0010
+0010
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0110
+0110
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab7 $[00m 
+Script done on 2017年06月07日 (週三) 17時43分21秒
